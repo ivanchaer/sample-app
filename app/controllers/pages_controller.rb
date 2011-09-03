@@ -15,4 +15,8 @@ class PagesController < ApplicationController
   def portfolio
     @title = "Portfolio"
   end
+  
+  def help
+      @title = "Help"
+  end
 end
