@@ -18,4 +18,4 @@ group :test do
   gem 'factory_girl_rails', '1.0'
 end
 
-gem 'rake', '0.9.2'
+gem 'rake', '0.8.7'
